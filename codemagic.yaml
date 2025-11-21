@@ -5,7 +5,7 @@ workflows:
     max_build_duration: 120
 
     integrations:
-      app_store_connect: "Razi Lasewec"
+      app_store_connect: "Vave Balenteko"
 
     environment:  
       xcode: latest
